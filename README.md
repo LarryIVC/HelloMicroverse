@@ -1,12 +1,9 @@
-<!-- Project for module 1 day 2 -->
 <a name="readme-top"></a>
 
 <div align="center">
   <h3><b>Hello Microverse Project</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents 
 
@@ -30,7 +27,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [HelloMicroverse] <a name="about-project"></a>
 
@@ -42,7 +38,7 @@
 
 ### Tech Stack <a name="tech-stack">HTML/CSS</a>
 
-> HTML & CSS is markup metodology to undertand how is the web structured.
+HTML & CSS is markup metodology to undertand how is the web structured.
 
 <details>
   <summary>Tool</summary>
@@ -64,11 +60,10 @@
     <li><a href="https://www.w3.org/standards/">No Database requiered</a></li>
   </ul>
 </details>
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Tool used on Microverse
+Tool used on Microverse
 
 - **[Visual Studio Code]**
 - **[GitBash]**
@@ -77,15 +72,11 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://larryivc.github.io/HelloMicroverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -107,7 +98,6 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-
 Example commands:
 
 ```sh
@@ -128,7 +118,6 @@ Example command:
 
 To run the project, execute the following command:
 
-
 Example command:
 
 ```sh
@@ -137,7 +126,6 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
-
 
 Example command:
 
@@ -148,10 +136,10 @@ Example command:
 
 You can deploy this project using a browser:
 
-
 Example:
 
-```Chrome index.html
+```
+  Chrome index.html
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -159,8 +147,6 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> All of the collaborators of this project.
 
 👤 **Larry Villegas**
 
@@ -173,8 +159,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ 1] **[Navigator]**
 - [ 2] **[Menu]**
@@ -203,7 +187,6 @@ Help me with your criticisms and your suggestions, you will be blessed for such 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 I would like to thank a Microverse Full Stack Program
 
