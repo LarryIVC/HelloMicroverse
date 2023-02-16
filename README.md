@@ -40,19 +40,19 @@
 
 ## 🛠 Built With <a name="built-with">Visual Code Editor</a>
 
-### Tech Stack <a name="tech-stack">HTML CSS</a>
+### Tech Stack <a name="tech-stack">HTML/CSS</a>
 
 > HTML & CSS is markup metodology to undertand how is the web structured.
 
 <details>
-  <summary>Client</summary>
+  <summary>Tool</summary>
   <ul>
     <li><a href="https://code.visualstudio.com/">Visual Code Editor</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Tool</summary>
   <ul>
     <li><a href="https://www.w3.org/standards/">Client PC - Web Browser</a></li>
   </ul>
@@ -70,9 +70,8 @@
 
 > Tool used on Microverse
 
-- **[Git]**
-- **[GitHub]**
-- **[Linters]**
+- **[Visual Studio Code]**
+- **[GitBash]**
 - **[HTML]**
 - **[CSS]**
 
@@ -90,7 +89,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This repo is a example of the use git, gitHub and Linterns.
+This repo is a example of the use git, gitHub and Linterns.
 
   - You need to make your own copy on your pc 💻
   - Apply the HTML and CSS.
