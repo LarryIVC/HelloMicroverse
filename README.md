@@ -44,17 +44,11 @@
   </ul>
 </details>
   
-
-
-
 ### Key Features <a name="key-features"></a>
 
-Tool used on Microverse
+- **Uses Github actions and linters**
+- **Simple webpage with basic HTML and CSS**
 
-- **[Visual Studio Code]**
-- **[GitBash]**
-- **[HTML]**
-- **[CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
