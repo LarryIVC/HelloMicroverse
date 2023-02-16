@@ -103,24 +103,6 @@ Example command:
 ```sh
   start ./index.html
 ```
-### Run tests
-
-To run tests, run the following command:
-
-Example command:
-
-```sh
-  start ./index.html
-```
-### Deployment
-
-You can deploy this project using a browser:
-
-Example:
-
-```
-  Chrome index.html
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
