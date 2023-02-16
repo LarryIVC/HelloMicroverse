@@ -30,36 +30,22 @@
 
 # 📖 [HelloMicroverse] <a name="about-project"></a>
 
-> This project is about a excercise to understand Microverse tools
+**[Hello Microverse]** This project is about a excercise to understand Microverse tools
 
-**[Hello Microverse]** is a project to practice whit the Microverse tools
+## 🛠 Built With <a name="built-with"></a>
 
-## 🛠 Built With <a name="built-with">Visual Code Editor</a>
-
-### Tech Stack <a name="tech-stack">HTML/CSS</a>
-
-HTML & CSS is markup metodology to undertand how is the web structured.
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Tool</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://code.visualstudio.com/">Visual Code Editor</a></li>
+    <li><a href="https://code.visualstudio.com/">HTML</a></li>
+    <li><a href="https://www.w3.org/standards/">CSS</a></li>
   </ul>
 </details>
+  
 
-<details>
-  <summary>Tool</summary>
-  <ul>
-    <li><a href="https://www.w3.org/standards/">Client PC - Web Browser</a></li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.w3.org/standards/">No Database requiered</a></li>
-  </ul>
-</details>
 
 ### Key Features <a name="key-features"></a>
 
